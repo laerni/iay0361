@@ -4,19 +4,22 @@ class WeatherDatabaseTest {
 
     @Test
     public void isTemperature() {
-        //
-        //assertEquals(Character.isDigit(), weather.result());
+        //boolean b = Character.isDigit(weather.result());
+        //assertEquals(true, b);
     }
 
     @Test
     public void wheatherHighIsHigherThanLow() {
-        //assertEquals(, weather.result());
+        //double high = weather.getHigh();
+        //double low = weather.getLow();
+        //boolean b = high > low;
+        //assertEquals(true, b);
     }
 
     @Test
     public void areCoordinatesNormal() {
         //boolean b = Pattern.matches("***:***", weather);
-        //assertEquals("", weather.result());
+        //assertEquals(true, b);
     }
 
     @Test
